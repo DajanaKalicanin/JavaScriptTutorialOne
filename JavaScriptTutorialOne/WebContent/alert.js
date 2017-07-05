@@ -1,3 +1,3 @@
 "use strinct";
 
-alert("I am JavaScript!");
+alert("I am JavaScript New!");
